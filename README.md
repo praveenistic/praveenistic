@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">Multiskilled IT professionaldoing automations for MSMEs</h3>
+<h3 align="center">Multiskilled IT professional doing automations for MSMEs</h3>
 
 
 - 🔭 I’m currently working on Automations
