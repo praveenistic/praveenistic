@@ -1,9 +1,5 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">Multiskilled IT Professional cum Enterprenuer. Currently doing automations for MSMEs</h3>
+<h3 align="center">Multiskilled IT professionaldoing automations for MSMEs</h3>
 
 
 - 🔭 I’m currently working on Automations
@@ -11,10 +7,7 @@
 - 👯 I’m looking to collaborate on any high perfomance systems that need quality leadership
 - 🤔 I’m looking for help with AI Integration
 - 💬 Ask me about Automation, Software and Business Development 
-- 📫 How to reach me praveenist@gmail.com
-- 😄 Pronouns: Sirji
-- ⚡ Fun fact: Multiskilled techprenuer
-
+- 📫 Reach me praveenistic@gmail.com
 
 
 <h3 align="left">My Stacks</h3>
